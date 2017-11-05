@@ -1,4 +1,4 @@
-list_of_elements = [4, 2,4,4256,346,36,32623,6 235, 923, 52, 328]
+list_of_elements = [4, 2,4,456,346,36,32623,6 235, 923, 52, 328]
 
 x = int(input("Enter number to search: "))
 
